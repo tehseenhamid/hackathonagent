@@ -1,0 +1,23 @@
+#1 | From: Dean's office, email | Date: 9 Nov
+"Approved: a 4-hour hackathon for 150 students in teams of 3. The budget is Rs 650,000, all in. Ten staff will be on duty. Please keep a 15-minute prayer break in the schedule."
+
+#2 | From: Margalla Event Halls, email | Date: 3 Nov
+"Room D seats 80 at Rs 40,000. Hall A seats 200 at Rs 120,000. Hall B seats 200 at Rs 150,000. Hall C seats 300 at Rs 220,000. Halls B and C have a standby generator."
+
+#3 | From: Caterer, WhatsApp | Date: 20 Oct
+"Standard lunch box Rs 1,000 per head."
+
+#4 | From: Caterer, WhatsApp | Date: 12 Nov
+"Salam bhai! Standard lunch box ab Rs 1,200 per head hoga, basic wala Rs 800. Delivery free hai."
+
+#5 | From: Judging coordinator, email | Date: 11 Nov
+"20 judges have confirmed. The honorarium is Rs 5,000 each. A judge needs 15 minutes per team and should cover no more than three teams."
+
+#6 | From: Finance, email | Date: 10 Nov
+"Already ordered from the event budget: prizes Rs 100,000, backup internet Rs 20,000, printing Rs 10,000."
+
+#7 | From: Student society, WhatsApp | Date: 13 Nov
+"Can we get a DJ for the closing? The quote is Rs 50,000."
+
+#8 | From: A judge, WhatsApp | Date: 14 Nov
+"I may be 10 minutes late on the day. Traffic on Srinagar Highway."
